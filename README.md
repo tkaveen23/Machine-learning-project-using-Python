@@ -1,0 +1,3 @@
+# Machine-learning-project-using-Python
+
+Created a comprehensive report and developed a number of machinelearning models for tasks related to classification, regression, andunsupervised learning using three different datasets. Data cleaning,feature selection, and EDA were carried out in order to addressresearch questions which was contrasted against existing literature. KMeans algorithm and PCA were used to identify homogeneouscustomer groups for a wholesaler. The best regression model wasidentified after five models were tested to forecast CO2 emissions fromautomobiles. The best model was identified after five differentclassification models were developed to categorise diabeticindividuals.
